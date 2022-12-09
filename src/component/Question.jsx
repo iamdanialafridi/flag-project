@@ -88,7 +88,7 @@ let quizStatus ='pending';
 }
    
     </ul>
-    <div className='container ]'>
+    <div className='container'>
    <Feedback  color={color}  Message={feedback} /> 
 
     </div>
